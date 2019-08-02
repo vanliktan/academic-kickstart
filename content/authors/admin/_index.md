@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Vanlik Tan
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Economic student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Kindai U.(Japan) 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is just my test academic website.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- (Empirical) Industrial Organization
+- Econometrics
+- Online platform
 
 education:
   courses:
